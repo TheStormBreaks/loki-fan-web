@@ -30,10 +30,15 @@ $('.slideshow-left').slick({
   } else if (currentSlide < nextSlide && currentSlide == 0 && nextSlide == maxItems - 1) {
     $('.slideshow-right .slider').slick('slickGoTo', maxItems);
     $('.slideshow-text').slick('slickGoTo', -1);
+  } else if (currentSlide < nextSlide && currentSlide == 0 && nextSlide == maxItems - 1) {
+    $('.slideshow-right .slider').slick('slickGoTo', maxItems);
+    $('.slideshow-text').slick('slickGoTo', -1);
   } else {
     $('.slideshow-right .slider').slick('slickGoTo', maxItems - 1 - nextSlide);
     $('.slideshow-text').slick('slickGoTo', nextSlide);
-  }
+  } 
+
+  
 }).on("mousewheel", function(event) {
   event.preventDefault();
   if (event.deltaX > 0 || event.deltaY < 0) {
@@ -75,3 +80,5 @@ $('.slideshow-text').slick({
   speed: 900,
   cssEase: 'cubic-bezier(0.7, 0, 0.3, 1)'
 });
+
+
