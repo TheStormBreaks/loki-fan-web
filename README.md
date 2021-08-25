@@ -42,3 +42,8 @@
 ##### ALL RIGHTS RESERVED, CYBERHERTZ CONSULTANTS PVT. LTD. 
 
 
+
+## And that is it!
+![Loki Giphy](https://giphy.com/gifs/nerdist-marvel-loki-sylvie-Qa69ibdtSJY16vtSNP)
+
+
