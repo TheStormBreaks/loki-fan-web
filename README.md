@@ -44,5 +44,5 @@
 
 
 ## And that is it!
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/Qa69ibdtSJY16vtSNP/giphy.gif?cid=ecf05e47k0vdb56xcexxrxp94x05dsdb1daxkkre5ntqehq0&rid=giphy.gif&ct=g)
 
