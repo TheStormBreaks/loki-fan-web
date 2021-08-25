@@ -20,7 +20,7 @@
 * Click on the link below
 * Navigate to /files
 
-##### _METHOD 2_
+##### _METHOD 2_ (no installation required and easier as well)
 
 * Dowload the zip file and unzip it
 * Extract it, anf then navigate to file --> index
@@ -32,9 +32,6 @@
 
 ### **NOTE:** _THE ORDER OF WEB PAGES FOLLOWED IS:_
 #### index.html (index page/main page) -----> discussion.html (discussion page) -----> character.html (character page) -----> merch.html (merchandise page)
-##### from merch.html (merchandise page) -----> index.html (index page/main page)
-#####                                    -----> discussion.html (discussion page)
-#####                                    -----> character.html (character page)
 
 ----
 
