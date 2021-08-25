@@ -81,4 +81,15 @@ $('.slideshow-text').slick({
   cssEase: 'cubic-bezier(0.7, 0, 0.3, 1)'
 });
 
+function readMore() {
+  var expandInfo = document.getElementById("mygodneedsintro-js");
+  var mainHeadings = document.getElementById("main-headings-js");
+  
+  mainHeadings.style.transform = "scale(0.7)";
+  expandInfo.style.height = "350px";
+}
+
+
+
+
 
