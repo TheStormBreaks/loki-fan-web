@@ -4,7 +4,7 @@
 ---- 
 
 ### *About this file*
-##### This project is for Technicia 2021 - Web Designing (CS)
+##### This project is for competetion - Web Designing (CS)
 ##### This is a fan web page for mcu charcter - Loki
 
 ---
