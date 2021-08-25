@@ -15,8 +15,10 @@
 
 * Download the zip file
 * Unzip the file
-* Click on index.html to see the first page
-* Navigate from there till the last page.
+* Download 200ok WEB SERVER FOR CHROME (https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/related?hl=en)
+* Upload the extracted folder. 
+* Click on the link below
+* Navigate to /files
 
 ----
 
