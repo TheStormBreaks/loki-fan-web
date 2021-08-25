@@ -44,6 +44,6 @@
 
 
 ## And that is it!
-![Loki Giphy](https://giphy.com/gifs/nerdist-marvel-loki-sylvie-Qa69ibdtSJY16vtSNP)
+! [Loki Giphy](https://giphy.com/gifs/nerdist-marvel-loki-sylvie-Qa69ibdtSJY16vtSNP)
 
 
