@@ -11,7 +11,7 @@
 
 #### **HOW TO DOWNLOAD AND RUN**
 
-##### 
+##### _METHOD 1_ (with installation)
 
 * Download the zip file
 * Unzip the file
@@ -19,6 +19,22 @@
 * Upload the extracted folder. 
 * Click on the link below
 * Navigate to /files
+
+##### _METHOD 2_
+
+* Dowload the zip file and unzip it
+* Extract it, anf then navigate to file --> index
+* The index page will be the first page
+* From there, Navigate to the end till merch page
+
+----
+
+
+### **NOTE:** _THE ORDER OF WEB PAGES FOLLOWED IS:_
+#### index.html (index page/main page) -----> discussion.html (discussion page) -----> character.html (character page) -----> merch.html (merchandise page)
+##### from merch.html (merchandise page) -----> index.html (index page/main page)
+#####                                    -----> discussion.html (discussion page)
+#####                                    -----> character.html (character page)
 
 ----
 
